@@ -1,7 +1,7 @@
-# Hi there, I'm Divyateja Pasupuleti 👋
-<img src="https://komarev.com/ghpvc/?username=Divyateja04&label=Profile Views&color=blue&style=flat" alt="Divyateja04" />
+# Hi there, I'm Divyateja Pasupuleti 👋 <img src="https://komarev.com/ghpvc/?username=Divyateja04&label=Profile Views&color=blue&style=flat" alt="Divyateja04"/>  
 
------------------------------
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Divyateja%20Pasupuleti-blue)](https://www.linkedin.com/in/divyateja.pasupuleti/)
+
 ## :mortar_board: I’m currently doing my CSE Undergrad in BITS Pilani, Hyderabad Campus
 ### 🌱 I’m currently learning Datastructures and Algorithms and solving questions on LeetCode and Codechef
 ### 💬 Ask me about Javascript / React.js / HTML&CSS 
