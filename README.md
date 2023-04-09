@@ -33,16 +33,5 @@
 ## 🏆 My GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Divyateja04&count_private=true&theme=tokyonight&showicons=true)]()&nbsp;
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyateja04&langs_count=5&theme=tokyonight)]()
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyateja04&" alt="divyateja04" /></p>
 
-
-
-<!--
-**Divyateja04/Divyateja04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
