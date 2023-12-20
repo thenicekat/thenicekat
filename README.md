@@ -8,7 +8,7 @@ I am an avid techie and a full stack developer from Hyderabad, India. I am a stu
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divyateja04&show_icons=true" alt="GitHub Stats" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyateja04&layout=compact" alt="Languages Used" height="200">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyateja04&layout=compact" alt="Languages Used" height="200"> -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyateja04&" alt="divyateja04" />
 </p>
 
