@@ -13,5 +13,3 @@ I am an avid techie and a full stack developer from Hyderabad, India. I am a stu
 </p>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyateja04" alt="divyateja04" /></a> </p> -->
-
-<h3 align="left">Connect with me @ divyateja04.github.io</h3>
