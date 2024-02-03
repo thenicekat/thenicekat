@@ -4,7 +4,17 @@
   </a>
 </p>
 
-I am an avid techie and a full stack developer from Hyderabad, India. I am a student from India and am deeply passionate about Computer Science and wish to pursue a career in it. From my very childhood, I used to be passionate about computers, how they work, and how we can program them to make our lives better. I'm currently pursuing my B.E. (Hons.) in Computer Science at BITS Pilani - Hyderabad Campus. You can visit my portfolio at [divyateja04.github.io](divyateja04.github.io)
+I'm currently a 3rd-year undergraduate student in India, and my passion for
+Computer Science has been with me since my childhood. Growing up, I was always
+fascinated by computers - understanding how they work and the potential they have
+when we program them to improve our lives.
+<br />
+<br />
+My childhood interests in programming, robotics, and electronics have led me to pursue
+my undergraduate studies in Computer Science and Engineering. I was always that guy who wanted to
+use his skills to make the world a better place for the socieT.
+     
+You can visit my portfolio at [http://divyateja04.github.io](http://divyateja04.github.io)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divyateja04&show_icons=true" alt="GitHub Stats" height="200">
