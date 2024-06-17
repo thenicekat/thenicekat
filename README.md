@@ -14,12 +14,10 @@ My childhood interests in programming, robotics, and electronics have led me to 
 my undergraduate studies in Computer Science and Engineering. I was always that guy who wanted to
 use his skills to make the world a better place for the socieT.
      
-You can visit my portfolio at [http://divyateja04.github.io](http://divyateja04.github.io)
+You can visit my [portfolio](http://thenicekat.github.io)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyateja04&show_icons=true" alt="GitHub Stats" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyateja04&layout=compact" alt="Languages Used" height="200">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyateja04&" alt="divyateja04" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thenicekat&show_icons=true" alt="GitHub Stats" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenicekat&layout=compact" alt="Languages Used" height="200">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thenicekat&" alt="thenicekat" />
 </p>
-
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyateja04" alt="divyateja04" /></a> </p> -->
