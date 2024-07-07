@@ -4,15 +4,9 @@
   </a>
 </p>
 
-I'm currently a 3rd-year undergraduate student in India, and my passion for
-Computer Science has been with me since my childhood. Growing up, I was always
-fascinated by computers - understanding how they work and the potential they have
-when we program them to improve our lives.
-<br />
-<br />
-My childhood interests in programming, robotics, and electronics have led me to pursue
-my undergraduate studies in Computer Science and Engineering. I was always that guy who wanted to
-use his skills to make the world a better place for the socieT.
+Diving headfirst into the world of Computer Science as a 4th-year undergraduate in India, my journey is fueled by a childhood passion for programming, robotics, and electronics. I am a tech enthusiast with an unquenchable thirst for innovation, always on the hunt for the next big thing to learn and conquer. When I am not breaking new ground in code, you will find me devouring books, binge-watching movies, or bringing robots to life.
+<br/> <br/>
+I have delved into various aspects of computer science. From learning different programming languages to exploring algorithms and data structures, my academic journey has been a mix of theory and hands-on experience. I have taken on projects and coursework that allowed me to apply my knowledge to real-world problems, honing my practical skills along the way.
      
 You can visit my [portfolio](http://thenicekat.github.io)
 
