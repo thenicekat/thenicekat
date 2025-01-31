@@ -13,5 +13,4 @@ Know more about me by visiting my [portfolio](http://thenicekat.github.io)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thenicekat&show_icons=true" alt="GitHub Stats" height="200">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thenicekat&" alt="thenicekat" height="200" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenicekat&layout=compact" alt="Languages Used" height="200"> -->
 </p>
